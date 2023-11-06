@@ -1,5 +1,3 @@
-![Snake animation](https://github.com/tsunamicxde/tsunamicxde/blob/output/github-contribution-grid-snake.svg)
-
 ## I'm a Software Engineer
 
 ### Languages and Tools
