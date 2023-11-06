@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/tsunamicxde/tsunamicxde/blob/output/github-contribution-grid-snake.svg)
+
 ## I'm a Software Engineer
 
 ### Languages and Tools
@@ -13,3 +15,5 @@
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/tsunamicxde)
+
+
