@@ -3,7 +3,6 @@
 ### Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=gitea&logoColor=red)
 ![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=spring&logoColor=green)
-![Spring](https://img.shields.io/badge/-SpringBoot-090909?style=for-the-badge&logo=springboot&logoColor=green)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=blue)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=green)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=orange)
