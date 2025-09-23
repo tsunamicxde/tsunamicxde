@@ -1,4 +1,6 @@
 ### <div align="center">I'm Vlad, a Backend Developer 👨‍💻</div>  
+
+<div align="center"> <i>Note: I've moved to GitLab! Find me at: </i><br> <a href="https://gitlab.com/tsunamicxde" target="_blank"> <img src="https://img.shields.io/badge/GitLab-tsunamicxde-orange?style=for-the-badge&logo=gitlab" alt="GitLab Profile"> </a> </div>
   
 
 <br/>  
